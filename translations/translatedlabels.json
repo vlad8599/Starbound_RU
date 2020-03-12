@@ -380,7 +380,7 @@
       "mutantminer.config.json": 10,
       "oremerchant.config.json": 119,
       "outpost.config.json": 42,
-      "peacekeeper.config.json": 13,
+      "peacekeeper.config.json": 12,
       "peacekeeperconverse.config.json": 63,
       "quest.config.json": 295,
       "rebel.config.json": 3,
@@ -4782,11 +4782,11 @@
       }
     },
     "names": {
-      "ancientgreek.namesource.json": 611,
+      "ancientgreek.namesource.json": 618,
       "aztec.namesource.json": 138,
-      "pets.namesource.json": 150,
+      "pets.namesource.json": 161,
       "russianfemale.namesource.json": 80,
-      "russianmale.namesource.json": 72,
+      "russianmale.namesource.json": 77,
       "russiansurname.namesource.json": 178,
       "shared_.namesource.json": 5,
       "shared_e.namesource.json": 2,
@@ -4799,7 +4799,7 @@
         "arenaadvisor3.npctype.json": 4,
         "arenabruiser.npctype.json": 2,
         "arenafighter.npctype.json": 1,
-        "arenahunter.npctype.json": 6,
+        "arenahunter.npctype.json": 7,
         "arenapyro.npctype.json": 12,
         "arenashooter.npctype.json": 7,
         "shared_arenaadvisor.json": 0,
@@ -4863,9 +4863,9 @@
           "chefmerchant.npctype.json": 56
         },
         "novakidvillage": {
-          "bartender.npctype.json": 0,
-          "novakidblacksmith.npctype.json": 1,
-          "saloon.npctype.json": 0
+          "bartender.npctype.json": 6,
+          "novakidblacksmith.npctype.json": 7,
+          "saloon.npctype.json": 9
         },
         "shared_.npctype.json": 1,
         "shared_aviant": {
@@ -5042,7 +5042,7 @@
         "lunarbase.npctype.json": 4,
         "neon.npctype.json": 8,
         "office.npctype.json": 3,
-        "peacekeepertenant.npctype.json": 7,
+        "peacekeepertenant.npctype.json": 12,
         "philanthropist.npctype.json": 3,
         "scientist.npctype.json": 9,
         "socialite.npctype.json": 16
@@ -5099,7 +5099,7 @@
           "capricoatAF.object.json": 2
         },
         "cosmicintruder": {
-          "cosmicintruderaf.object.json": 0
+          "cosmicintruderaf.object.json": 2
         },
         "crabcano": {
           "crabcanoAF.object.json": 2
@@ -5246,7 +5246,7 @@
           "squeemAF.object.json": 2
         },
         "swansong": {
-          "swansongaf.object.json": 0
+          "swansongaf.object.json": 2
         },
         "taroni": {
           "taroniAF.object.json": 2
@@ -5468,19 +5468,19 @@
           "apexaquarium2.object.json": 9
         },
         "apexarmchair": {
-          "apexarmchair.object.json": 6
+          "apexarmchair.object.json": 9
         },
         "apexbananasign": {
           "apexbananasign.object.json": 8
         },
         "apexbed": {
-          "apexbed.object.json": 8
+          "apexbed.object.json": 9
         },
         "apexbloodbank": {
-          "apexbloodbank.object.json": 8
+          "apexbloodbank.object.json": 9
         },
         "apexbrainjar": {
-          "apexbrainjar.object.json": 8
+          "apexbrainjar.object.json": 9
         },
         "apexbustmale": {
           "apexbustmale.object.json": 9
@@ -5489,19 +5489,19 @@
           "apexceilingtv.object.json": 9
         },
         "apexcomfychair": {
-          "apexcomfychair.object.json": 8
+          "apexcomfychair.object.json": 9
         },
         "apexconsole1": {
           "apexconsole1.object.json": 9
         },
         "apexconsolekeyboard": {
-          "apexconsolekeyboard.object.json": 7
+          "apexconsolekeyboard.object.json": 9
         },
         "apexcoolbookcase": {
           "apexcoolbookcase.object.json": 9
         },
         "apexcoolchair": {
-          "apexcoolchair.object.json": 8
+          "apexcoolchair.object.json": 9
         },
         "apexcoolcomputer": {
           "apexcoolcomputer.object.json": 9
@@ -5531,10 +5531,10 @@
           "apexcouch.object.json": 8
         },
         "apexcounter1": {
-          "apexcounter1.object.json": 0
+          "apexcounter1.object.json": 9
         },
         "apexcounter2": {
-          "apexcounter2.object.json": 0
+          "apexcounter2.object.json": 9
         },
         "apexcurtain": {
           "apexcurtain.object.json": 7
@@ -5558,13 +5558,13 @@
           "apexlamp1.object.json": 7
         },
         "apexlamp2": {
-          "apexlamp2.object.json": 0
+          "apexlamp2.object.json": 9
         },
         "apexlamp3": {
           "apexlamp3.object.json": 0
         },
         "apexlevel1sign": {
-          "apexlevel1sign.object.json": 0
+          "apexlevel1sign.object.json": 9
         },
         "apexlocker": {
           "apexlocker.object.json": 9
@@ -6413,7 +6413,7 @@
         },
         "bioluminescence": {
           "glowbed": {
-            "glowbed.object.json": 1
+            "glowbed.object.json": 9
           },
           "glowbush": {
             "shared_glowbush.json": 4
@@ -6434,10 +6434,10 @@
             "glowflowerlamp.object.json": 0
           },
           "glowroot1": {
-            "glowroot1.object.json": 0
+            "glowroot1.object.json": 1
           },
           "glowtree": {
-            "shared_glowtree.json": 0
+            "shared_glowtree.json": 2
           },
           "glowvine": {
             "shared_glowvine.json": 0
@@ -7687,7 +7687,7 @@
       },
       "bonus": {
         "devstatuegeorge": {
-          "devstatuegeorge.object.json": 0
+          "devstatuegeorge.object.json": 3
         },
         "tallchair": {
           "tallchair.object.json": 9
@@ -7695,13 +7695,13 @@
       },
       "bounty": {
         "scanclue1": {
-          "scanclue1.object.json": 0
+          "scanclue1.object.json": 1
         },
         "scanclue2": {
           "scanclue2.object.json": 0
         },
         "shared_scanclue": {
-          "shared_scanclue.json": 6
+          "shared_scanclue.json": 8
         }
       },
       "bugs": {
@@ -7841,10 +7841,10 @@
             "bigapetargetmap.object.json": 9
           },
           "minidronerack": {
-            "minidronerack.object.json": 8
+            "minidronerack.object.json": 9
           },
           "miniknogintel1": {
-            "miniknogintel1.object.json": 8
+            "miniknogintel1.object.json": 9
           },
           "miniknognewspaper": {
             "miniknognewspaper.object.json": 9
@@ -7855,10 +7855,10 @@
             "kluexmap1.object.json": 9
           },
           "kluexmural1": {
-            "kluexmural1.object.json": 8
+            "kluexmural1.object.json": 9
           },
           "kluexmural2": {
-            "kluexmural2.object.json": 8
+            "kluexmural2.object.json": 9
           },
           "kluexstatue1": {
             "kluexstatue1.object.json": 9
@@ -7869,33 +7869,33 @@
         },
         "floran": {
           "championspeardisplay": {
-            "championspeardisplay.object.json": 8
+            "championspeardisplay.object.json": 9
           },
           "floranhunterpainting": {
-            "floranhunterpainting.object.json": 7
+            "floranhunterpainting.object.json": 9
           },
           "floranspinneret": {
-            "floranspinneret.object.json": 0
+            "floranspinneret.object.json": 9
           },
           "floranwebbing": {
-            "floranwebbing.object.json": 0
+            "floranwebbing.object.json": 9
           },
           "ixolingpike": {
-            "ixolingpike.object.json": 8
+            "ixolingpike.object.json": 9
           }
         },
         "glitch": {
           "glitchbaronfigure": {
-            "glitchbaronfigure.object.json": 7
+            "glitchbaronfigure.object.json": 9
           },
           "glitchchess": {
-            "glitchchess.object.json": 2
+            "glitchchess.object.json": 9
           },
           "glitchdecree": {
-            "glitchdecree.object.json": 2
+            "glitchdecree.object.json": 9
           },
           "glitchhorndisplay": {
-            "glitchhorndisplay.object.json": 0
+            "glitchhorndisplay.object.json": 9
           },
           "glitchscribe": {
             "glitchscribe.object.json": 2
@@ -7909,13 +7909,13 @@
             "hylotlmusicbox.object.json": 8
           },
           "librarycodex": {
-            "librarycodex.object.json": 8
+            "librarycodex.object.json": 9
           },
           "librarymodel": {
-            "librarymodel.object.json": 8
+            "librarymodel.object.json": 9
           },
           "pagodaaquarium": {
-            "pagodaaquarium.object.json": 8
+            "pagodaaquarium.object.json": 9
           }
         }
       },
@@ -8001,25 +8001,25 @@
       },
       "cultist": {
         "cultistairlockdoor": {
-          "shared_cultistairlock.json": 0
+          "shared_cultistairlock.json": 8
         },
         "cultistairlockhatch": {
-          "cultistairlockhatch.object.json": 0
+          "cultistairlockhatch.object.json": 8
         },
         "cultistaltar": {
-          "cultistaltar.object.json": 0
+          "cultistaltar.object.json": 9
         },
         "cultistbannerlarge": {
-          "cultistbannerlarge.object.json": 0
+          "cultistbannerlarge.object.json": 9
         },
         "cultistchest": {
-          "cultistchest.object.json": 0
+          "cultistchest.object.json": 9
         },
         "cultistdoor": {
-          "cultistdoor.object.json": 0
+          "cultistdoor.object.json": 9
         },
         "shared_cultistairlock": {
-          "shared_cultistairlock.json": 0
+          "shared_cultistairlock.json": 1
         }
       },
       "farmables": {
@@ -8052,7 +8052,7 @@
         "cocoa": {
           "cocoaseed.object.json": 7,
           "shared_cocoaseed.object.json": 1,
-          "wildcocoaseed.object.json": 1
+          "wildcocoaseed.object.json": 7
         },
         "coffee": {
           "coffeeseed.object.json": 1,
@@ -8067,11 +8067,11 @@
         },
         "cotton": {
           "cottonseed.object.json": 1,
-          "shared_cottonseed.object.json": 7,
+          "shared_cottonseed.object.json": 8,
           "wildcottonseed.object.json": 1
         },
         "crystalplant": {
-          "shared_crystalplantseed.object.json": 8
+          "shared_crystalplantseed.object.json": 9
         },
         "currentcorn": {
           "currentcornseed.object.json": 1,
@@ -8103,7 +8103,7 @@
           }
         },
         "eggshoot": {
-          "shared_eggshootseed.object.json": 8
+          "shared_eggshootseed.object.json": 9
         },
         "feathercrown": {
           "shared_feathercrownseed.object.json": 9
@@ -8112,13 +8112,13 @@
           "flowerblue.object.json": 9
         },
         "flowerred": {
-          "flowerred.object.json": 8
+          "flowerred.object.json": 9
         },
         "flowerspring": {
-          "flowerspring.object.json": 7
+          "flowerspring.object.json": 8
         },
         "floweryellow": {
-          "floweryellow.object.json": 8
+          "floweryellow.object.json": 9
         },
         "grapes": {
           "shared_grapesseed.object.json": 9
@@ -8140,7 +8140,7 @@
         },
         "pearlpea": {
           "pearlpeaseed.object.json": 2,
-          "shared_pearlpeaseed.object.json": 6,
+          "shared_pearlpeaseed.object.json": 7,
           "wildpearlpeaseed.object.json": 2
         },
         "pineapple": {
@@ -10217,7 +10217,7 @@
           "vendingmachine.object.json": 9
         },
         "watermachine": {
-          "watermachine.object.json": 6
+          "watermachine.object.json": 7
         }
       },
       "hylotl": {
@@ -11050,25 +11050,25 @@
       },
       "neon": {
         "neonhologram": {
-          "neonhologram.object.json": 0
+          "neonhologram.object.json": 9
         },
         "neonlamppost": {
-          "neonlamppost.object.json": 0
+          "neonlamppost.object.json": 8
         },
         "neonlight": {
-          "neonlight.object.json": 0
+          "neonlight.object.json": 8
         },
         "neonpeacekeeperemblem": {
-          "neonpeacekeeperemblem.object.json": 0
+          "neonpeacekeeperemblem.object.json": 8
         },
         "neonstore": {
-          "neonstore.object.json": 0
+          "neonstore.object.json": 10
         },
         "neontriangle": {
-          "neontriangle.object.json": 0
+          "neontriangle.object.json": 8
         },
         "shared_neon": {
-          "shared_.object.json": 0
+          "shared_.object.json": 1
         }
       },
       "novakid": {
@@ -11553,10 +11553,10 @@
           "peacekeeperposter2.object.json": 1
         },
         "peacekeeperstore": {
-          "shared_peacekeeperstore.json": 0
+          "shared_peacekeeperstore.json": 10
         },
         "peacekeepertable": {
-          "peacekeepertable.object.json": 5
+          "peacekeepertable.object.json": 9
         },
         "peacekeepervendingmachine": {
           "peacekeepervendingmachine.object.json": 0
@@ -12396,13 +12396,13 @@
         },
         "exitteleporter": {
           "exitteleporter.object.json": 9,
-          "returnteleporter.object.json": 0
+          "returnteleporter.object.json": 8
         },
         "futureteleporter": {
           "futureteleporter.object.json": 1
         },
         "peacekeeperteleporter": {
-          "peacekeeperteleporter.object.json": 0
+          "peacekeeperteleporter.object.json": 9
         },
         "returnoutpostteleporter": {
           "remoteteleporter.object.json": 1,
@@ -13821,7 +13821,7 @@
     "radiomessages.config.json": 1,
     "shared_able.json": 2,
     "shared_ancientplatform.mat.json": 5,
-    "shared_anfemale.json": 4,
+    "shared_anfemale.json": 5,
     "shared_anmale.json": 1,
     "shared_ant.json": 5,
     "shared_apexshipplatform.mat.json": 5,
@@ -13852,7 +13852,7 @@
     "shared_modernplatform.mat.json": 4,
     "shared_monster.json": 13,
     "shared_monstert.json": 5,
-    "shared_name.json": 67,
+    "shared_name.json": 43,
     "shared_outpostplatform.mat.json": 5,
     "shared_plantplatform.mat.json": 5,
     "shared_platform.json": 2,
@@ -13882,7 +13882,6 @@
     "species": {
       "apex.species.json": 6,
       "avian.species.json": 7,
-      "backernamegen.config.json": 0,
       "fenerox.species.json": 1,
       "feneroxnamegen.config.json": 9,
       "floran.species.json": 7,
@@ -13891,18 +13890,18 @@
       "glitchmalenamegen.config.json": 10,
       "human.species.json": 5,
       "humanfemalenamegen.config.json": 129,
-      "humanmalenamegen.config.json": 121,
-      "humannamegen.config.json": 13,
+      "humanmalenamegen.config.json": 136,
+      "humannamegen.config.json": 15,
       "hylotl.species.json": 7,
       "namegen.config.json": 57,
       "novakid.species.json": 6,
-      "novakidnamegen.config.json": 153,
+      "novakidnamegen.config.json": 158,
       "penguin.species.json": 10,
       "penguinnamegen.config.json": 26,
       "shadownamegen.config.json": 1,
       "shared_.species.json": 17,
-      "shared_malenamegen.config.json": 35,
-      "shared_namegen.config.json": 89
+      "shared_malenamegen.config.json": 36,
+      "shared_namegen.config.json": 66
     },
     "stagehands": {
       "mission": {
